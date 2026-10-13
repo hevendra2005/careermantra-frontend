@@ -1,6 +1,6 @@
 # Careermantra – Frontend (Next.js)
 
-Next.js 14 (App Router) + React 18. No backend needed yet.
+Next.js 14 (App Router) + React 18
 
 ## Run
 ```
@@ -15,4 +15,4 @@ npm run build && npm start   # production
 - `data/colleges.json` – sample college data (edit or add colleges here)
 - `lib/api.js` – all data access in one place. Swap these two functions for fetch() calls when the backend is ready.
 - `app/globals.css` – all styles (colors are CSS variables at the top)
-- `public/` – illustrations (hero, medal, campus SVGs). Put real photos here and use them in `CollegeCard.js`.
+

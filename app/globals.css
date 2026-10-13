@@ -91,7 +91,7 @@ section{padding-top:84px}
 .lead input,.lead select{flex:1;min-width:160px;padding:13px 16px;border-radius:14px;border:0;font:inherit;color:#0f172a}
 .msg{margin-top:14px;font-weight:700}
 
-/* ---- Paste at the END of app/globals.css ---- */
+/* ----globals.css ---- */
 .help{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
 .hd{display:flex;gap:16px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:22px;padding:22px;transition:transform .25s,border-color .25s}
 .hd:hover{border-color:var(--blue);transform:translateY(-4px)}
@@ -128,7 +128,6 @@ section{padding-top:84px}
 .city b{font:700 20px Outfit,sans-serif}
 .city span{font-size:14px;opacity:.9}
 
-/* ---- Paste at the END of app/globals.css ---- */
 .hero{padding-top:0!important}
 .hero>.wrap{padding-top:56px}
 .sh{position:relative;z-index:5}
@@ -152,7 +151,6 @@ section{padding-top:84px}
 @media (max-width:520px){.sh-brand small{display:none}.sh-brand strong{font-size:16px}.sh-cta{padding:12px 16px;font-size:14px}.sh-pill{padding-left:14px}}
 
 
-/* ---- Paste at the END of app/globals.css ---- */
 .head h2 .or{color:#ff8a00}
 .favs{display:flex;flex-wrap:wrap;justify-content:center;gap:20px clamp(10px,2vw,23px)}
 .fav{display:flex;flex-direction:column;align-items:center;gap:14px;width:clamp(80px,9vw,120px);font-weight:800;text-align:center}
@@ -160,7 +158,7 @@ section{padding-top:84px}
 .fav:hover img{transform:scale(1.07);box-shadow:0 14px 26px -12px #ec5a0c99}
 .fav span{font-size:clamp(14px,1.3vw,18px)}
 
-/* ---- Paste at the END of app/globals.css ---- */
+
 .head h2 .or{color:#ff8a00}
 .hdgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px 28px;max-width:1240px;margin:0 auto}
 .hdc{display:flex;align-items:center;gap:20px;min-height:110px;background:var(--card);border-radius:70px;padding:20px 28px 20px 20px;box-shadow:0 10px 30px -14px #00000033;transition:transform .25s,box-shadow .25s}
@@ -173,7 +171,7 @@ section{padding-top:84px}
 @media (max-width:1100px){.hdgrid{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:700px){.hdgrid{grid-template-columns:1fr}.hdc{border-radius:44px}}
 
-/* ---- Paste at the END of app/globals.css ---- */
+
 .sh-in{padding-top:9px;padding-bottom:9px}
 .sh-social{margin-left:auto;flex:none;display:flex;gap:10px;padding-left:20px}
 .sh-social a{width:32px;height:32px;border-radius:50%;border:1px solid #ffffff40;display:grid;place-items:center;color:#fff;transition:transform .2s,background .2s,border-color .2s}
@@ -185,7 +183,7 @@ section{padding-top:84px}
 .sh-social .wa:hover{background:#25d366}
 
 
-/* ===== FOOTER – complete CSS. Delete ALL old footer rules (anything with "footer" or ".ft") and paste this at the END of app/globals.css ===== */
+/* ===== FOOTER – complete CSS ===== */
 footer.ft{margin-top:90px;background:#1c1f4f;color:#e8eaff;padding:56px 0 30px;border-top:0;font-size:16px;font-family:"Plus Jakarta Sans","Nunito Sans",system-ui,sans-serif}
 footer.ft .wrap{display:block;max-width:1840px;margin:0 auto;padding:0 clamp(16px,2.5vw,40px)}
 footer.ft .ft-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:40px 32px}
@@ -213,7 +211,6 @@ footer.ft .ft-bottom{display:flex;justify-content:space-between;flex-wrap:wrap;g
 @media (max-width:960px){footer.ft .ft-grid{grid-template-columns:1fr 1fr}footer.ft .ft-brand{grid-column:1/-1}}
 @media (max-width:520px){footer.ft .ft-grid{grid-template-columns:1fr}footer.ft .ft-branches{grid-template-columns:1fr}}
 
-/* ---- Paste at the END of app/globals.css ---- */
 .hero.cp-hero-bar{padding-bottom:100px}
 .hero .wrap.cp-hero{display:block}
 .cp-hero h1{font-size:clamp(34px,5vw,58px);font-weight:800}
@@ -304,7 +301,7 @@ footer.ft .ft-bottom{display:flex;justify-content:space-between;flex-wrap:wrap;g
 .sh-cta{padding:11px 14px;font-size:13px}
 }
 
-/* ---- Paste at the END of app/globals.css ---- */
+
 .fs{position:relative;margin-top:16px}
 .fs-label{display:block;font:800 13px "Nunito Sans",system-ui,sans-serif;margin-bottom:6px}
 .fs-btn{width:100%;display:flex;align-items:center;justify-content:space-between;gap:8px;text-align:left;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:600 15px "Nunito Sans",system-ui,sans-serif;padding:12px 14px;border-radius:14px;cursor:pointer;transition:border-color .2s,box-shadow .2s}
@@ -331,7 +328,7 @@ footer.ft .ft-bottom{display:flex;justify-content:space-between;flex-wrap:wrap;g
 .fs-pop li em{font-style:normal;color:var(--mute);font-size:12.5px}
 .fs-empty{padding:10px;color:var(--mute);font-size:14px}
 
-/* ---- Paste at the END of app/globals.css (needs the colleges + filters CSS from the earlier steps) ---- */
+/* ---- (needs the colleges + filters CSS from the earlier steps) ---- */
 .ex-toolbar{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;padding-top:20px}
 .ex-toolbar .fs{margin-top:0}
 .fs-sel{width:100%;padding:12px 14px;border-radius:14px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font:600 15px "Nunito Sans",system-ui,sans-serif;cursor:pointer}
@@ -370,7 +367,6 @@ footer.ft .ft-bottom{display:flex;justify-content:space-between;flex-wrap:wrap;g
 @media (max-width:1000px){.ex-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:700px){.ex-grid{grid-template-columns:1fr}.ex-toolbar{grid-template-columns:1fr}}
 
-/* ---- Paste at the END of app/globals.css ---- */
 .hero.cp-hero-bar:has(.ex-hero){padding-bottom:100px}
 .hero .wrap.cp-hero.ex-hero{display:grid;grid-template-columns:1.05fr .95fr;gap:30px;align-items:center}
 .ex-hero .art{max-width:400px;margin-top:10px}
