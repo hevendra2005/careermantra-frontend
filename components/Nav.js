@@ -96,7 +96,8 @@ const topLinks = [
   ['Blog', '/blog'],
   ['Common Application Process', '/cap'],
   ['Online Courses', '/online-courses'],
-  ['College Predictor', 'https://careermantra.net/college-predictor/'],
+  ['College Predictor', '/college-predictor'],
+  // ['Careers', '/careers'],
 ];
 // Put your real profile links here (replace '#').
 const socials = [
@@ -146,6 +147,7 @@ export default function Nav() {
             {courses.map(c => <Link key={c} href={`/colleges?course=${encodeURIComponent(c)}`}>{c}</Link>)}
           </div>
           <button className="sh-theme" onClick={toggle} aria-label="Toggle dark mode">🌓</button>
+          <a className="sh-login" href="/login">Login</a>
           <a className="sh-cta" href="/#interest">Choose Your Interest</a>
         </div>
       </div>

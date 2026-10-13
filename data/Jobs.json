@@ -1,0 +1,75 @@
+{
+  "sample": true,
+  "email": "info@careermantra.net",
+  "whatsapp": "918800198642",
+  "departments": ["Counselling", "Technology", "Content", "Marketing"],
+  "openings": [
+    {
+      "id": "admissions-counsellor", "type": "Job", "title": "Admissions Counsellor", "dept": "Counselling",
+      "location": "Gwalior", "mode": "On-site", "level": "0–2 years",
+      "summary": "Guide students and parents through colleges, courses, scholarships and the common application.",
+      "does": ["Speak with students and parents about courses and colleges", "Help students shortlist colleges and complete applications", "Follow up and keep records of every conversation"],
+      "needs": ["Good communication in Hindi and English", "Patience and a student-first attitude", "Basic comfort with Excel or Google Sheets"]
+    },
+    {
+      "id": "frontend-developer", "type": "Job", "title": "Frontend Developer (React / Next.js)", "dept": "Technology",
+      "location": "Gwalior", "mode": "Hybrid", "level": "0–2 years",
+      "summary": "Build and improve the Career Mantra website and student dashboard.",
+      "does": ["Build responsive pages in React and Next.js", "Turn designs into clean, reusable components", "Work with the backend team on APIs"],
+      "needs": ["JavaScript, React and CSS", "Understanding of responsive design", "A GitHub profile or portfolio with projects"]
+    },
+    {
+      "id": "content-writer", "type": "Job", "title": "Education Content Writer", "dept": "Content",
+      "location": "Remote", "mode": "Remote", "level": "0–2 years",
+      "summary": "Write college guides, exam updates and admission articles for students.",
+      "does": ["Research and write articles for the Career Mantra blog", "Keep exam and admission information accurate and current", "Edit and improve existing articles"],
+      "needs": ["Strong writing skills in English", "Attention to facts and detail", "Interest in education and careers"]
+    },
+    {
+      "id": "web-intern", "type": "Internship", "title": "Web Development Intern", "dept": "Technology",
+      "location": "Gwalior", "mode": "Hybrid", "level": "Students and freshers", "duration": "3 months",
+      "summary": "Learn by shipping real pages and features on a live education platform.",
+      "does": ["Build pages and components with React and Next.js", "Fix bugs and improve the UI", "Learn code review and Git workflow"],
+      "needs": ["Basics of HTML, CSS and JavaScript", "Willingness to learn quickly", "A small project to show"]
+    },
+    {
+      "id": "content-intern", "type": "Internship", "title": "Content Writing Intern", "dept": "Content",
+      "location": "Remote", "mode": "Remote", "level": "Students and freshers", "duration": "3 months",
+      "summary": "Write and research articles that help students choose colleges and exams.",
+      "does": ["Research colleges, courses and exams", "Draft blog posts and news updates", "Proofread and fact-check content"],
+      "needs": ["Good written English", "Curiosity and research skills", "Sample writing, if you have any"]
+    },
+    {
+      "id": "social-intern", "type": "Internship", "title": "Social Media and Marketing Intern", "dept": "Marketing",
+      "location": "Gwalior", "mode": "On-site", "level": "Students and freshers", "duration": "3 months",
+      "summary": "Help plan posts, campaigns and student outreach across our social channels.",
+      "does": ["Plan and create posts for Instagram, Facebook and LinkedIn", "Support events and student campaigns", "Track what works and suggest improvements"],
+      "needs": ["Active on social media and creative", "Basic design skills (Canva is fine)", "Good communication"]
+    },
+    {
+      "id": "counselling-intern", "type": "Internship", "title": "Student Counselling Intern", "dept": "Counselling",
+      "location": "Pune", "mode": "On-site", "level": "Students and freshers", "duration": "3 months",
+      "summary": "Learn how admissions counselling works while supporting our counselling team.",
+      "does": ["Support counsellors in student calls and follow-ups", "Maintain student records", "Learn about colleges, courses and exams"],
+      "needs": ["Good communication", "Interest in education and people", "Hindi and English"]
+    }
+  ],
+  "values": [
+    ["Students first", "Every decision starts with what helps a student choose better."],
+    ["Learn by doing", "You work on real projects from the first week."],
+    ["Ownership", "Take a task, see it through and own the result."],
+    ["Honest and clear", "We share information that students can trust."]
+  ],
+  "steps": [
+    ["Apply", "Send your details and resume for the role you like."],
+    ["Screening call", "A short call to understand your background and interest."],
+    ["Interview", "Talk to the team about the role, and a small task if needed."],
+    ["Offer", "If it is a match, you get an offer and a start date."]
+  ],
+  "faqs": [
+    ["Can freshers apply?", "Yes. Internships are meant for students and freshers, and several jobs welcome 0–2 years of experience."],
+    ["Where will I work?", "Each role lists its location and whether it is on-site, hybrid or remote."],
+    ["How long does the process take?", "We aim to respond quickly. A counsellor or the hiring team will contact you on the number you share."],
+    ["I do not see a role for me. What should I do?", "Send an open application with your resume. We keep it and reach out when a suitable role opens."]
+  ]
+}

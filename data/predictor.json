@@ -1,0 +1,176 @@
+{
+ "sample": true,
+ "courses": [
+  {
+   "id": "B.Tech",
+   "label": "B.Tech",
+   "key": "B.Tech",
+   "icon": "⚙️",
+   "exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "COMEDK UGET",
+    "BITSAT",
+    "MHT CET",
+    "KCET",
+    "KEAM"
+   ]
+  },
+  {
+   "id": "MBA",
+   "label": "MBA",
+   "key": "MBA",
+   "icon": "📊",
+   "exams": [
+    "CAT",
+    "XAT",
+    "CMAT",
+    "MAT",
+    "ATMA"
+   ]
+  },
+  {
+   "id": "Medical",
+   "label": "Medical",
+   "key": "MBBS",
+   "icon": "🩺",
+   "exams": [
+    "NEET",
+    "AIIMS",
+    "NEET PG"
+   ]
+  },
+  {
+   "id": "M.Tech",
+   "label": "M.Tech",
+   "key": "M.Tech",
+   "icon": "🔬",
+   "exams": [
+    "GATE"
+   ]
+  },
+  {
+   "id": "Design",
+   "label": "Design",
+   "key": "Design",
+   "icon": "🎨",
+   "exams": [
+    "NIFT",
+    "NID",
+    "UCEED"
+   ]
+  },
+  {
+   "id": "Law",
+   "label": "Law",
+   "key": "Law",
+   "icon": "⚖️",
+   "exams": [
+    "CLAT"
+   ]
+  },
+  {
+   "id": "Hospitality",
+   "label": "Hospitality",
+   "key": "Hospitality",
+   "icon": "🏨",
+   "exams": []
+  }
+ ],
+ "categories": [
+  [
+   "General",
+   0
+  ],
+  [
+   "OBC",
+   4
+  ],
+  [
+   "SC",
+   10
+  ],
+  [
+   "ST",
+   12
+  ],
+  [
+   "PWD",
+   5
+  ]
+ ],
+ "cutoffs": {
+  "lpu": {
+   "MBA": 60,
+   "B.Tech": 55,
+   "Law": 55,
+   "Design": 58
+  },
+  "amity-noida": {
+   "MBA": 65,
+   "B.Tech": 60,
+   "Law": 60
+  },
+  "iim-ahmedabad": {
+   "MBA": 99
+  },
+  "sharda": {
+   "MBA": 55,
+   "B.Tech": 50,
+   "Law": 50,
+   "MBBS": 70
+  },
+  "fms-delhi": {
+   "MBA": 98
+  },
+  "chandigarh-university": {
+   "MBA": 60,
+   "B.Tech": 55,
+   "Law": 55,
+   "Design": 58
+  }
+ },
+ "features": [
+  [
+   "Personalized results",
+   "Colleges matched to your scores, category and home state.",
+   "🎯"
+  ],
+  [
+   "Data-driven insights",
+   "See Safe, Moderate and Ambitious options at a glance.",
+   "📈"
+  ],
+  [
+   "Save time",
+   "Four quick steps instead of browsing hundreds of colleges.",
+   "⚡"
+  ]
+ ],
+ "faqs": [
+  [
+   "How does the College Predictor work?",
+   "Choose your course and the exams you have taken, enter your scores and share your details. The predictor compares your scores with college cutoffs and groups colleges as Safe, Moderate or Ambitious."
+  ],
+  [
+   "What do Safe, Moderate and Ambitious mean?",
+   "Safe means your score is comfortably above the cutoff. Moderate means you are close to the cutoff. Ambitious means the cutoff is a little above your score, so apply but keep backups."
+  ],
+  [
+   "Are the results guaranteed?",
+   "No. Cutoffs change every year and depend on seats, competition and the counselling round. Treat the result as a guide, not a promise of admission."
+  ],
+  [
+   "Why do you ask for my category and home state?",
+   "Reserved categories usually get a relaxation in cutoffs, and many colleges give preference to students from their own state. The predictor uses both."
+  ],
+  [
+   "I took more than one exam. What happens?",
+   "Select every exam you took and enter each score. The predictor uses your best match for each college."
+  ],
+  [
+   "Can a counsellor help me after the prediction?",
+   "Yes. A Career Mantra counsellor will contact you on the number you share and help you shortlist colleges and plan applications."
+  ]
+ ]
+}

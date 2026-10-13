@@ -300,10 +300,10 @@ const helpIcons = {
 };
 // [icon, title, short text, link]
 const helpdesk = [
-  ['doc', 'Common Application Process', 'Apply Multiple Colleges Using ...', 'https://careermantra.net/student_dashboard/cap'],
-  ['checklist', 'Scholarship Test', 'Get upto 100% UG & PG Scholarship', 'https://careermantra.net/scholarship-test/'],
+  ['doc', 'Common Application Process', 'Apply Multiple Colleges Using ...', '/cap'],
+  ['checklist', 'Scholarship Test', 'Get upto 100% UG & PG Scholarship', '/scholarship'],
   ['campus', 'Campus Rockstar', 'Earn More, Shine Brighter ...', '#'],
-  ['predictor', 'College Predictor', 'Your personalized guide to ...', 'https://careermantra.net/college-predictor/'],
+  ['predictor', 'College Predictor', 'Your personalized guide to ...', '/college-predictor'],
   ['loan', 'Education Loan', 'Empowering Dreams, Fueling ...', 'https://careermantra.net/education-loan/'],
   ['institution', 'Re-Admissions', 'College readmission services ...', 'https://careermantra.net/re-admission/'],
 ];
