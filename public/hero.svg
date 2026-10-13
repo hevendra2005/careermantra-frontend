@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 440" role="img" aria-label="Graduate student in front of a university building"><defs><symbol id="campus" viewBox="0 0 200 120"><rect width="200" height="120" fill="var(--c1)"/><circle cx="162" cy="24" r="13" fill="var(--c3)"/><ellipse cx="40" cy="26" rx="22" ry="7" fill="#fff" opacity=".7"/><ellipse cx="120" cy="16" rx="18" ry="5" fill="#fff" opacity=".6"/><path d="M0 98h200v22H0z" fill="var(--c2)" opacity=".55"/><rect x="38" y="50" width="124" height="52" fill="#fff"/><path d="M30 50 100 20l70 30z" fill="#fff"/><path d="M30 50 100 20l70 30z" fill="var(--c2)" opacity=".18"/><circle cx="100" cy="38" r="7" fill="var(--c2)"/><rect x="50" y="58" width="10" height="42" fill="var(--c2)" opacity=".28"/><rect x="72" y="58" width="10" height="42" fill="var(--c2)" opacity=".28"/><rect x="118" y="58" width="10" height="42" fill="var(--c2)" opacity=".28"/><rect x="140" y="58" width="10" height="42" fill="var(--c2)" opacity=".28"/><rect x="91" y="72" width="18" height="30" rx="9" fill="var(--c2)"/><circle cx="16" cy="94" r="15" fill="var(--c2)"/><circle cx="186" cy="96" r="14" fill="var(--c2)"/><path d="M100 20V6l12 4-12 4" fill="var(--c3)"/></symbol></defs>
+<circle cx="240" cy="235" r="200" fill="#fff" opacity=".1"/><circle cx="240" cy="235" r="145" fill="#fff" opacity=".12"/>
+<use href="#campus" x="70" y="110" width="340" height="204" style="--c1:#bfd0ff;--c2:#3b4fe0;--c3:#ffd84d"/>
+<path d="M170 440c0-72 30-112 70-112s70 40 70 112z" fill="#ff4d8d"/>
+<path d="M222 330l18 28 18-28z" fill="#fff"/>
+<rect x="228" y="316" width="24" height="24" rx="8" fill="#f6c3a0"/>
+<circle cx="240" cy="290" r="42" fill="#fcd2b0"/>
+<path d="M198 288c0-32 20-50 44-50s44 18 44 50c-14-16-30-22-44-22s-30 6-44 22z" fill="#1f2937"/>
+<rect x="210" y="248" width="60" height="20" rx="7" fill="#1f2937"/>
+<polygon points="168,236 240,206 312,236 240,264" fill="#111827"/>
+<path d="M312 236v44" stroke="#ffc531" stroke-width="4"/><circle cx="312" cy="284" r="7" fill="#ffc531"/>
+<circle cx="224" cy="298" r="4" fill="#1f2937"/><circle cx="256" cy="298" r="4" fill="#1f2937"/>
+<path d="M228 314q12 11 24 0" stroke="#1f2937" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<circle cx="214" cy="310" r="6" fill="#ff8aa8" opacity=".6"/><circle cx="266" cy="310" r="6" fill="#ff8aa8" opacity=".6"/>
+<path d="M196 384q-34 6-62-6" stroke="#ff4d8d" stroke-width="24" stroke-linecap="round" fill="none"/>
+<rect x="100" y="368" width="92" height="17" rx="4" fill="#ffc531"/><rect x="108" y="351" width="78" height="17" rx="4" fill="#38bdf8"/><rect x="104" y="334" width="86" height="17" rx="4" fill="#a78bfa"/>
+<g fill="#ffc531"><path d="M70 90l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/><path d="M410 60l4 9 9 4-9 4-4 9-4-9-9-4 9-4z"/></g>
+</svg>

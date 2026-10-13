@@ -1,0 +1,230 @@
+
+[
+ {
+  "slug": "lpu",
+  "name": "Lovely Professional University",
+  "city": "Jalandhar",
+  "state": "Punjab",
+  "rating": 9.5,
+  "package": "2.5 Cr",
+  "courses": [
+   "MBA",
+   "B.Tech",
+   "Law",
+   "Design",
+   "BBA"
+  ],
+  "colors": [
+   "#c9d6ff",
+   "#3b4fe0",
+   "#ffd84d"
+  ],
+  "image": "/campus/lpu.webp",
+  "specializations": {
+   "MBA": [
+    "Marketing",
+    "Finance",
+    "Human Resource",
+    "Business Analytics"
+   ],
+   "B.Tech": [
+    "Computer Science",
+    "Mechanical",
+    "Civil",
+    "Electronics"
+   ],
+   "Law": [
+    "Corporate Law",
+    "Criminal Law"
+   ],
+   "Design": [
+    "Fashion Design",
+    "Interior Design",
+    "UX Design"
+   ],
+   "BBA": [
+    "General",
+    "Digital Marketing"
+   ]
+  }
+ },
+ {
+  "slug": "amity-noida",
+  "name": "Amity University, Noida",
+  "city": "Noida",
+  "state": "Uttar Pradesh",
+  "rating": 9.5,
+  "package": "62 LPA",
+  "courses": [
+   "MBA",
+   "B.Tech",
+   "Law",
+   "BBA"
+  ],
+  "colors": [
+   "#ffd3e2",
+   "#e11d74",
+   "#ffc531"
+  ],
+  "image": "/campus/amity-noida.webp",
+  "specializations": {
+   "MBA": [
+    "Marketing",
+    "Finance",
+    "International Business"
+   ],
+   "B.Tech": [
+    "Computer Science",
+    "Mechanical",
+    "Electronics"
+   ],
+   "Law": [
+    "Corporate Law",
+    "Intellectual Property"
+   ],
+   "BBA": [
+    "General",
+    "Finance"
+   ]
+  }
+ },
+ {
+  "slug": "iim-ahmedabad",
+  "name": "IIM Ahmedabad",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "rating": 9.1,
+  "package": "1.46 Cr",
+  "courses": [
+   "MBA"
+  ],
+  "colors": [
+   "#cdf5ea",
+   "#0f9a82",
+   "#ffb21e"
+  ],
+  "image": "/campus/iim-ahmedabad.webp",
+  "specializations": {
+   "MBA": [
+    "Finance",
+    "Marketing",
+    "Operations",
+    "Business Analytics"
+   ]
+  }
+ },
+ {
+  "slug": "sharda",
+  "name": "Sharda University",
+  "city": "Greater Noida",
+  "state": "Uttar Pradesh",
+  "rating": 8.8,
+  "package": "1.6 Cr",
+  "courses": [
+   "MBA",
+   "B.Tech",
+   "MBBS",
+   "Law",
+   "BBA"
+  ],
+  "colors": [
+   "#e4d4ff",
+   "#7b2fe0",
+   "#ff8a5c"
+  ],
+ "image": "/campus/sug.webp",
+  "specializations": {
+   "MBA": [
+    "Marketing",
+    "Finance",
+    "Human Resource"
+   ],
+   "B.Tech": [
+    "Computer Science",
+    "Civil",
+    "Mechanical"
+   ],
+   "MBBS": [
+    "General Medicine"
+   ],
+   "Law": [
+    "Corporate Law",
+    "Criminal Law"
+   ],
+   "BBA": [
+    "General",
+    "Digital Marketing"
+   ]
+  }
+ },
+ {
+  "slug": "fms-delhi",
+  "name": "FMS Delhi",
+  "city": "Delhi-NCR",
+  "state": "Delhi",
+  "rating": 8.9,
+  "package": "1.23 Cr",
+  "courses": [
+   "MBA"
+  ],
+  "colors": [
+   "#ffe6c4",
+   "#e8730c",
+   "#ff4d8d"
+  ],
+  "image": "/campus/fms.webp",
+  "specializations": {
+   "MBA": [
+    "Finance",
+    "Marketing",
+    "Operations"
+   ]
+  }
+ },
+ {
+  "slug": "chandigarh-university",
+  "name": "Chandigarh University",
+  "city": "Chandigarh",
+  "state": "Punjab",
+  "rating": 8.4,
+  "package": "1.7 Cr",
+  "courses": [
+   "MBA",
+   "B.Tech",
+   "Law",
+   "Design",
+   "BBA"
+  ],
+  "colors": [
+   "#c9ecff",
+   "#0284c7",
+   "#ffd84d"
+  ],
+  "image": "/campus/chandigarh-university.webp",
+  "specializations": {
+   "MBA": [
+    "Marketing",
+    "Finance",
+    "Human Resource",
+    "Business Analytics"
+   ],
+   "B.Tech": [
+    "Computer Science",
+    "Electronics",
+    "Civil",
+    "Mechanical"
+   ],
+   "Law": [
+    "Criminal Law",
+    "Constitutional Law"
+   ],
+   "Design": [
+    "Fashion Design",
+    "Graphic Design"
+   ],
+   "BBA": [
+    "General"
+   ]
+  }
+ }
+]

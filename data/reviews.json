@@ -1,0 +1,178 @@
+[
+ {
+  "id": 1,
+  "college": "lpu",
+  "name": "Aman Verma",
+  "course": "B.Tech",
+  "batch": "2025",
+  "date": "2026-08-14",
+  "ratings": {
+   "infrastructure": 5,
+   "placements": 4,
+   "academics": 4,
+   "value": 3,
+   "campus": 5
+  },
+  "sections": {
+   "campus": "Big campus with a lot happening: clubs, sports and fests all year. Hostel food is average but the facilities around make up for it.",
+   "internships": "Internship support exists, but you need to apply early and keep your profile active to get good offers.",
+   "placement": "Placement drives are frequent and many companies visit. Packages vary a lot by branch, so check your own department first."
+  },
+  "helpful": 24,
+  "sample": true
+ },
+ {
+  "id": 2,
+  "college": "amity-noida",
+  "name": "Sneha Gupta",
+  "course": "MBA",
+  "batch": "2025",
+  "date": "2026-07-02",
+  "ratings": {
+   "infrastructure": 4,
+   "placements": 4,
+   "academics": 4,
+   "value": 3,
+   "campus": 4
+  },
+  "sections": {
+   "campus": "Good city location and a professional atmosphere. Classes are regular and faculty are approachable for doubts.",
+   "internships": "Live projects and short internships are part of the course which helped me understand real work.",
+   "placement": "Placement cell trains you for interviews. Strong effort from the student side is needed for the best offers."
+  },
+  "helpful": 18,
+  "sample": true
+ },
+ {
+  "id": 3,
+  "college": "iim-ahmedabad",
+  "name": "Rahul Mehta",
+  "course": "MBA",
+  "batch": "2024",
+  "date": "2026-06-21",
+  "ratings": {
+   "infrastructure": 5,
+   "placements": 5,
+   "academics": 5,
+   "value": 4,
+   "campus": 4
+  },
+  "sections": {
+   "campus": "Intense and rewarding. The peer group is exceptional and the learning mostly happens outside the classroom too.",
+   "internships": "Summer internship is a major part of the experience and the recruiters are top names.",
+   "placement": "Final placements are well organised and fair. Preparation from the first term really helps."
+  },
+  "helpful": 41,
+  "sample": true
+ },
+ {
+  "id": 4,
+  "college": "sharda",
+  "name": "Pooja Singh",
+  "course": "BBA",
+  "batch": "2025",
+  "date": "2026-05-30",
+  "ratings": {
+   "infrastructure": 4,
+   "placements": 3,
+   "academics": 4,
+   "value": 4,
+   "campus": 4
+  },
+  "sections": {
+   "campus": "Friendly campus with students from many countries. Library and labs are well maintained.",
+   "internships": "Some internship opportunities through the college, but I found most through my own network.",
+   "placement": "Placements are decent for core branches. I would suggest building skills alongside the curriculum."
+  },
+  "helpful": 9,
+  "sample": true
+ },
+ {
+  "id": 5,
+  "college": "fms-delhi",
+  "name": "Karan Malhotra",
+  "course": "MBA",
+  "batch": "2024",
+  "date": "2026-04-18",
+  "ratings": {
+   "infrastructure": 4,
+   "placements": 5,
+   "academics": 5,
+   "value": 5,
+   "campus": 4
+  },
+  "sections": {
+   "campus": "Compact campus but a very active student community. Case competitions and societies are a big plus.",
+   "internships": "Strong industry exposure and internship opportunities for those who are consistent.",
+   "placement": "One of the best value-for-money MBA options. Placements are strong and recruiters are consistent."
+  },
+  "helpful": 33,
+  "sample": true
+ },
+ {
+  "id": 6,
+  "college": "chandigarh-university",
+  "name": "Ritika Sharma",
+  "course": "B.Tech",
+  "batch": "2025",
+  "date": "2026-03-09",
+  "ratings": {
+   "infrastructure": 4,
+   "placements": 4,
+   "academics": 3,
+   "value": 4,
+   "campus": 5
+  },
+  "sections": {
+   "campus": "Lively campus life with events nearly every week. Infrastructure is modern and well kept.",
+   "internships": "Good number of internship drives, especially in IT and core companies.",
+   "placement": "Many companies visit for placements. Academic rigour can differ between departments."
+  },
+  "helpful": 15,
+  "sample": true
+ },
+ {
+  "id": 7,
+  "college": "lpu",
+  "name": "Mohit Yadav",
+  "course": "Law",
+  "batch": "2024",
+  "date": "2026-02-11",
+  "ratings": {
+   "infrastructure": 4,
+   "placements": 3,
+   "academics": 4,
+   "value": 3,
+   "campus": 4
+  },
+  "sections": {
+   "campus": "Moot court and legal aid activities are encouraged. Faculty is supportive when you show interest.",
+   "internships": "Internships with courts and law firms are expected every semester, which builds good exposure.",
+   "placement": "Placement options are growing for law students. Self-driven networking helps a lot."
+  },
+  "helpful": 7,
+  "sample": true
+ },
+ {
+  "id": 8,
+  "college": "sharda",
+  "name": "Anjali Das",
+  "course": "MBBS",
+  "batch": "2023",
+  "date": "2026-01-25",
+  "ratings": {
+   "infrastructure": 4,
+   "placements": 4,
+   "academics": 5,
+   "value": 3,
+   "campus": 4
+  },
+  "sections": {
+   "campus": "Hospital exposure starts early and the teaching hospital is busy, so there is plenty to learn from.",
+   "internships": "Clinical postings are structured and you get real patient interaction under supervision.",
+   "placement": "Most students prepare for PG entrance exams. The institute supports with guidance and mock tests."
+  },
+  "helpful": 12,
+  "sample": true
+ }
+]

@@ -1,0 +1,23 @@
+{
+  "goals": ["B.Tech", "MBA", "MBBS", "Design", "Law"],
+  "colleges": [
+    { "id": "bennett", "name": "Bennett University", "place": "Greater Noida, Uttar Pradesh", "short": "BU", "c": ["#1d3bd8", "#6d8bff"] },
+    { "id": "rai", "name": "Rai Technology University", "place": "Bengaluru", "short": "RTU", "c": ["#6d2be0", "#c084fc"] },
+    { "id": "lpu", "name": "Lovely Professional University", "place": "Jalandhar, Punjab", "short": "LPU", "c": ["#be185d", "#ff8a5c"] },
+    { "id": "lpuo", "name": "Lovely Professional University Online", "place": "Jalandhar, Punjab", "short": "LPU", "c": ["#0b7a75", "#34d399"] }
+  ],
+  "steps": [
+    ["Choose your goal", "Pick the course you want to study, such as B.Tech, MBA, MBBS, Design or Law."],
+    ["Select your colleges", "Choose the institutions and programs you want to apply to."],
+    ["Fill the form once", "Share your details one time in the common application. No separate form for every college."],
+    ["Talk to a counsellor", "A Career Mantra counsellor contacts you and helps you with the next steps."],
+    ["Complete your admission", "Finish the admission formalities with the college you choose."]
+  ],
+  "faqs": [
+    ["What is the Common Application Process?", "It is a standardized form that lets you apply to multiple institutions, programs or services with a single application. It removes the need to fill out a separate form for every college or university."],
+    ["Do I have to fill a separate form for each college?", "No. You fill the common application once and can choose more than one college."],
+    ["Which courses can I apply for?", "You can start with B.Tech, MBA, MBBS, Design or Law. Counsellors can also guide you on other programs."],
+    ["What happens after I submit?", "A Career Mantra counsellor contacts you on the mobile number you share and guides you through the next steps."],
+    ["Can I apply to more than one college?", "Yes. That is the idea of a common application. Select all the colleges you are interested in."]
+  ]
+}

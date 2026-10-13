@@ -1,0 +1,322 @@
+{
+ "providers": {
+  "dyp": {
+   "name": "Dr. D. Y. Patil Vidyapeeth, Pune",
+   "short": "DYP",
+   "c": [
+    "#1d3bd8",
+    "#6d8bff"
+   ]
+  },
+  "manipal": {
+   "name": "Manipal University Jaipur",
+   "short": "MUJ",
+   "c": [
+    "#be185d",
+    "#ff8a5c"
+   ]
+  },
+  "ssodl": {
+   "name": "Symbiosis School For Online And Digital Learning (SSODL)",
+   "short": "SYM",
+   "c": [
+    "#6d2be0",
+    "#c084fc"
+   ]
+  },
+  "dsu": {
+   "name": "Dayananda Sagar University",
+   "short": "DSU",
+   "c": [
+    "#0b7a75",
+    "#34d399"
+   ]
+  },
+  "dpucol": {
+   "name": "Dr. D.Y. Patil Vidyapeeth Centre For Online Learning (DPU-COL)",
+   "short": "DPU",
+   "c": [
+    "#1d3bd8",
+    "#4f7bff"
+   ]
+  },
+  "amity": {
+   "name": "Amity University Online",
+   "short": "AMI",
+   "c": [
+    "#c2410c",
+    "#f59e0b"
+   ]
+  },
+  "gla": {
+   "name": "GLA University",
+   "short": "GLA",
+   "c": [
+    "#334155",
+    "#64748b"
+   ]
+  },
+  "lpu": {
+   "name": "Lovely Professional University (LPU)",
+   "short": "LPU",
+   "c": [
+    "#be185d",
+    "#f472b6"
+   ]
+  },
+  "shoolini": {
+   "name": "Shoolini University",
+   "short": "SHU",
+   "c": [
+    "#0e7490",
+    "#22d3ee"
+   ]
+  }
+ },
+ "programs": [
+  {
+   "id": 1,
+   "provider": "dyp",
+   "title": "Online MBA Degree Programme",
+   "duration": "2 Years",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 2,
+   "provider": "manipal",
+   "title": "Online MBA Programme",
+   "duration": "24 Months",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 3,
+   "provider": "ssodl",
+   "title": "Online MBA Programme",
+   "duration": "24 Months",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 4,
+   "provider": "dsu",
+   "title": "Executive MBA",
+   "duration": "17 Months",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 5,
+   "provider": "dpucol",
+   "title": "Online BBA Degree Program",
+   "duration": "3 Years",
+   "degree": "BBA",
+   "level": "UG"
+  },
+  {
+   "id": 6,
+   "provider": "manipal",
+   "title": "Online B.Com Programme",
+   "duration": "3 Years",
+   "degree": "B.Com",
+   "level": "UG"
+  },
+  {
+   "id": 7,
+   "provider": "manipal",
+   "title": "Master Of Computer Applications (MCA) Online Degree Programme",
+   "duration": "24 Months",
+   "degree": "MCA",
+   "level": "PG"
+  },
+  {
+   "id": 8,
+   "provider": "amity",
+   "title": "Online MBA",
+   "duration": "2 Years",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 9,
+   "provider": "gla",
+   "title": "Online MBA Programme",
+   "duration": "2 Years",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 10,
+   "provider": "lpu",
+   "title": "Online B.Com Programme",
+   "duration": "3 Years",
+   "degree": "B.Com",
+   "level": "UG"
+  },
+  {
+   "id": 11,
+   "provider": "shoolini",
+   "title": "Online MBA",
+   "duration": "2 Years",
+   "degree": "MBA",
+   "level": "PG"
+  },
+  {
+   "id": 12,
+   "provider": "lpu",
+   "title": "Online BCA",
+   "duration": "3 Years",
+   "degree": "BCA",
+   "level": "UG"
+  },
+  {
+   "id": 13,
+   "provider": "lpu",
+   "title": "Online MCA",
+   "duration": "2 Years",
+   "degree": "MCA",
+   "level": "PG"
+  },
+  {
+   "id": 14,
+   "provider": "lpu",
+   "title": "Master of Arts (Sociology)",
+   "duration": "2 Years",
+   "degree": "MA",
+   "level": "PG"
+  },
+  {
+   "id": 15,
+   "provider": "lpu",
+   "title": "Master of Arts (History)",
+   "duration": "2 Years",
+   "degree": "MA",
+   "level": "PG"
+  },
+  {
+   "id": 16,
+   "provider": "lpu",
+   "title": "Master of Arts (Political Science)",
+   "duration": "2 Years",
+   "degree": "MA",
+   "level": "PG"
+  },
+  {
+   "id": 17,
+   "provider": "lpu",
+   "title": "Master of Arts (Economics)",
+   "duration": "2 Years",
+   "degree": "MA",
+   "level": "PG"
+  },
+  {
+   "id": 18,
+   "provider": "lpu",
+   "title": "Master of Art (M.A.) English",
+   "duration": "2 Years",
+   "degree": "MA",
+   "level": "PG"
+  },
+  {
+   "id": 19,
+   "provider": "lpu",
+   "title": "Master of Science (Mathematics)",
+   "duration": "2 Years",
+   "degree": "M.Sc",
+   "level": "PG"
+  },
+  {
+   "id": 20,
+   "provider": "lpu",
+   "title": "Master of Commerce",
+   "duration": "2 Years",
+   "degree": "M.Com",
+   "level": "PG"
+  }
+ ],
+ "tiles": [
+  [
+   "Online MBA",
+   "MBA",
+   "Online"
+  ],
+  [
+   "Online MCA",
+   "MCA",
+   "Online"
+  ],
+  [
+   "Online M.Com",
+   "M.Com",
+   "Online"
+  ],
+  [
+   "Online M.Sc",
+   "M.Sc",
+   "Online"
+  ],
+  [
+   "Online MA",
+   "MA",
+   "Online"
+  ],
+  [
+   "Distance MBA",
+   "MBA",
+   "Distance"
+  ],
+  [
+   "Online MS",
+   "MS",
+   "Online"
+  ],
+  [
+   "Distance MCA",
+   "MCA",
+   "Distance"
+  ],
+  [
+   "Distance M.Com",
+   "M.Com",
+   "Distance"
+  ],
+  [
+   "Distance M.Sc",
+   "M.Sc",
+   "Distance"
+  ],
+  [
+   "Online LLM",
+   "LLM",
+   "Online"
+  ],
+  [
+   "Online BCA",
+   "BCA",
+   "Online"
+  ]
+ ],
+ "faqs": [
+  [
+   "What are the benefits of pursuing an online UG/PG program?",
+   "Online programs offer flexibility, accessibility and affordability. You can study from anywhere and fit learning around your schedule."
+  ],
+  [
+   "How do I know if an online UG/PG program is accredited and recognized?",
+   "Check that the program has accreditation from recognized bodies and look at the reputation of the institution. A Career Mantra counsellor can help you verify this."
+  ],
+  [
+   "What technology and resources do I need to participate?",
+   "A computer or laptop with internet access, plus any software, textbooks or platform access the course requires."
+  ],
+  [
+   "How do online programs compare to on-campus programs in quality?",
+   "Many online programs are taught by the same faculty as on-campus courses. Reviews, rankings and alumni feedback help you judge quality."
+  ],
+  [
+   "Can I transfer credits to another institution?",
+   "It depends on the receiving institution’s policies and on the accreditation of your program."
+  ]
+ ]
+}
